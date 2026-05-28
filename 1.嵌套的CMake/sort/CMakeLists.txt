@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
-project(CALCLIB)
+project(SORT_LIB)
 file(GLOB_RECURSE SRC ${CMAKE_CURRENT_SOURCE_DIR}/* .cpp)
 include_directories(${HEAD_PATH})
 set(LIBRARY_OUTPUT_PATH ${LIB_PATH})
-add_library(${CALC_LIB} STATIC ${SRC})
+add_library(${SORT_LIB} SHARED ${SRC})
