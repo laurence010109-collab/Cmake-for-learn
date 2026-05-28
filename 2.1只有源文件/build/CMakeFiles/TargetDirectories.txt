@@ -1,0 +1,4 @@
+/media/tssh/data/laurence/my_program/Cmake-for-learn/2.1只有源文件/build/CMakeFiles/calc.dir
+/media/tssh/data/laurence/my_program/Cmake-for-learn/2.1只有源文件/build/CMakeFiles/cala.dir
+/media/tssh/data/laurence/my_program/Cmake-for-learn/2.1只有源文件/build/CMakeFiles/edit_cache.dir
+/media/tssh/data/laurence/my_program/Cmake-for-learn/2.1只有源文件/build/CMakeFiles/rebuild_cache.dir

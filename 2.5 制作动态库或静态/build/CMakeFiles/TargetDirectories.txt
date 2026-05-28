@@ -1,0 +1,4 @@
+/media/tssh/data/laurence/my_program/Cmake-for-learn/2.5 制作动态库或静态/build/CMakeFiles/calc.dir
+/media/tssh/data/laurence/my_program/Cmake-for-learn/2.5 制作动态库或静态/build/CMakeFiles/cala.dir
+/media/tssh/data/laurence/my_program/Cmake-for-learn/2.5 制作动态库或静态/build/CMakeFiles/edit_cache.dir
+/media/tssh/data/laurence/my_program/Cmake-for-learn/2.5 制作动态库或静态/build/CMakeFiles/rebuild_cache.dir

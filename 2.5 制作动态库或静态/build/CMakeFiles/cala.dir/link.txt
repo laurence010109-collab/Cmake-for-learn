@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libcala.so -o ../lib/libcala.so CMakeFiles/cala.dir/src/add.c.o CMakeFiles/cala.dir/src/div.c.o CMakeFiles/cala.dir/src/mult.c.o CMakeFiles/cala.dir/src/sub.c.o 

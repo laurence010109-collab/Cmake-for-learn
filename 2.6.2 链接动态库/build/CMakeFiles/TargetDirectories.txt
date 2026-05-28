@@ -1,0 +1,3 @@
+/media/tssh/data/laurence/my_program/Cmake-for-learn/2.6.2 链接动态库/build/CMakeFiles/app.dir
+/media/tssh/data/laurence/my_program/Cmake-for-learn/2.6.2 链接动态库/build/CMakeFiles/edit_cache.dir
+/media/tssh/data/laurence/my_program/Cmake-for-learn/2.6.2 链接动态库/build/CMakeFiles/rebuild_cache.dir
