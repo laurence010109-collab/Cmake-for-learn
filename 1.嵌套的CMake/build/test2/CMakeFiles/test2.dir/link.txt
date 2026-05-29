@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test2.dir/sort.cpp.o -o ../../bin/test2   -L/media/tssh/data/laurence/my_program/Cmake-for-learn/1.嵌套的CMake/lib  -Wl,-rpath,/media/tssh/data/laurence/my_program/Cmake-for-learn/1.嵌套的CMake/lib ../../lib/libsort.so 

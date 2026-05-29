@@ -101,11 +101,49 @@
 #     [<PRIVATE|PUBLIC|INTERFACE> <item>...]...)
 
 
-cmake_minimum_required(VERSION 3.0)
+# cmake_minimum_required(VERSION 3.0)
+# project(MyProgram)
+# include_directories(${PROJECT_SOURCE_DIR}/include)
+# file(GLOB SRC_LIST ${CMAKE_CURRENT_SOURCE_DIR}/src/* .cpp)
+# add_executable(app ${SRC_LIST})
+# target_link_libraries(app calc )
+
+
+
+
+# if("/home//robin///linux" PATH_EQUAL "/home/robin/linux")
+#     message("路径相等")
+# else()
+#     message("路径不相等")
+# endif()
+
+# message(STATUS"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+
+# if("/home//robin///linux" STREQUAL "/home/robin/linux")
+#     message("路径相等")
+# else()
+#     message("路径不相等")
+# endif()
+# #RANGE是CMake的一个函数，可以用来生成一个范围内的数字序列
+# # foreach(item RANGE 10 30 5)
+# #     message("item:${item}")
+# # endforeach()
+
+# set(WORD a b c "d d d d")
+# set(NAME ace sobo ll)
+# foreach(item IN ZIP_LISTS WORD NAME)
+#     message("item1=${item_0} item2=${item_1}")
+# endforeach()
+
+
+
+
+cmake_minimum_required(VERSION 3.17)
 project(MyProgram)
-include_directories(${PROJECT_SOURCE_DIR}/include)
-file(GLOB SRC_LIST ${CMAKE_CURRENT_SOURCE_DIR}/src/* .cpp)
-add_executable(app ${SRC_LIST})
-target_link_libraries(app calc )
-
-
+set(NAME luffy roro kdkd dkdk)
+list(LENGTH NAME LEN)
+while(${LEN} GREATER 0)
+    message("name:${NAME}")
+    list(POP_FRONT NAME)
+    list(LENGTH NAME LEN)
+endwhile()

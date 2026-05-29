@@ -109,3 +109,4 @@ add_executable(app ${SRC_LIST})
 target_link_libraries(app calc )
 
 
+greater equal strless

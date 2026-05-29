@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test1.dir/calc.cpp.o -o ../../bin/test1   -L/media/tssh/data/laurence/my_program/Cmake-for-learn/1.嵌套的CMake/lib  -Wl,-rpath,/media/tssh/data/laurence/my_program/Cmake-for-learn/1.嵌套的CMake/lib ../../lib/libcalc.a 

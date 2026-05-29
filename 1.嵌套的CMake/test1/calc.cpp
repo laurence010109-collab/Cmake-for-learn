@@ -10,6 +10,6 @@ int main()
     cout << "a + b = " << add(a, b) << endl;
     cout << "a - b = " << sub(a, b) << endl;
     cout << "a * b = " << mult(a, b) << endl;
-    cout << "a / b = " << div(a, b) << endl;
+    cout << "a / b = " << ddiv(a, b) << endl;
     return 0;
 }
